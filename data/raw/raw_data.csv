@@ -1,0 +1,205 @@
+question,model_answer,label
+Who discovered gravity?,Isaac Newton,1
+Who discovered gravity?,Albert Einstein,0
+When did the Titanic sink?,1912,1
+When did the Titanic sink?,1910,0
+What is the capital of France?,Paris,1
+What is the capital of France?,Lyon,0
+Who was the first President of the United States?,George Washington,1
+Who was the first President of the United States?,Thomas Jefferson,0
+What is the boiling point of water in Celsius?,100°C,1
+What is the boiling point of water in Celsius?,90°C,0
+Who painted the Mona Lisa?,Leonardo da Vinci,1
+Who painted the Mona Lisa?,Michelangelo,0
+What is the chemical symbol for gold?,Au,1
+What is the chemical symbol for gold?,Go,0
+Who wrote To Kill a Mockingbird?,Harper Lee,1
+Who wrote To Kill a Mockingbird?,Mark Twain,0
+When did World War II end?,1945,1
+When did World War II end?,1944,0
+Who was the first man on the moon?,Neil Armstrong,1
+Who was the first man on the moon?,Buzz Aldrin,0
+What is the largest planet in our solar system?,Jupiter,1
+What is the largest planet in our solar system?,Saturn,0
+What is the square root of 144?,12,1
+What is the square root of 144?,14,0
+Who invented the light bulb?,Thomas Edison,1
+Who invented the light bulb?,Nikola Tesla,0
+What is the capital of Japan?,Tokyo,1
+What is the capital of Japan?,Osaka,0
+What year did the Berlin Wall fall?,1989,1
+What year did the Berlin Wall fall?,1991,0
+What is the smallest prime number?,2,1
+What is the smallest prime number?,1,0
+Who is known as the father of computers?,Charles Babbage,1
+Who is known as the father of computers?,Alan Turing,0
+What is the freezing point of water in Fahrenheit?,32°F,1
+What is the freezing point of water in Fahrenheit?,0°F,0
+Which gas do plants absorb from the atmosphere?,Carbon dioxide,1
+Which gas do plants absorb from the atmosphere?,Oxygen,0
+What organ pumps blood through the body?,Heart,1
+What organ pumps blood through the body?,Liver,0
+What is the currency of the United Kingdom?,Pound Sterling,1
+What is the currency of the United Kingdom?,Euro,0
+Which planet is known as the Red Planet?,Mars,1
+Which planet is known as the Red Planet?,Venus,0
+What is the main language spoken in Brazil?,Portuguese,1
+What is the main language spoken in Brazil?,Spanish,0
+How many continents are there on Earth?,7,1
+How many continents are there on Earth?,6,0
+Who discovered penicillin?,Alexander Fleming,1
+Who discovered penicillin?,Louis Pasteur,0
+What is the longest river in the world?,Nile River,1
+What is the longest river in the world?,Amazon River,0
+What is the largest mammal on Earth?,Blue Whale,1
+What is the largest mammal on Earth?,Elephant,0
+What does DNA stand for?,Deoxyribonucleic Acid,1
+What does DNA stand for?,Deoxyribose Nucleic Acid,0
+Who developed the theory of relativity?,Albert Einstein,1
+Who developed the theory of relativity?,Isaac Newton,0
+How many bones are in the adult human body?,206,1
+How many bones are in the adult human body?,208,0
+Which ocean is the largest?,Pacific Ocean,1
+Which ocean is the largest?,Atlantic Ocean,0
+What is the capital of Canada?,Ottawa,1
+What is the capital of Canada?,Toronto,0
+What is the primary ingredient in guacamole?,Avocado,1
+What is the primary ingredient in guacamole?,Tomato,0
+What is the hardest natural substance on Earth?,Diamond,1
+What is the hardest natural substance on Earth?,Quartz,0
+Who was the first female Prime Minister of the UK?,Margaret Thatcher,1
+Who was the first female Prime Minister of the UK?,Theresa May,0
+In what year did India gain independence?,1947,1
+In what year did India gain independence?,1948,0
+What element does 'O' represent on the periodic table?,Oxygen,1
+What element does 'O' represent on the periodic table?,Osmium,0
+What country has the largest population?,China,1
+What country has the largest population?,India,0
+What is the tallest mountain in the world?,Mount Everest,1
+What is the tallest mountain in the world?,K2,0
+What is the largest desert in the world?,Antarctica,1
+What is the largest desert in the world?,Sahara,0
+What is the capital of Australia?,Canberra,1
+What is the capital of Australia?,Sydney,0
+What is the speed of light?,"299,792,458 m/s",1
+What is the speed of light?,"300,000,000 m/s",0
+Who wrote 1984?,George Orwell,1
+Who wrote 1984?,Aldous Huxley,0
+Which blood type is known as the universal donor?,O negative,1
+Which blood type is known as the universal donor?,AB positive,0
+What is the distance between the Earth and the Sun?,93 million miles,1
+What is the distance between the Earth and the Sun?,95 million miles,0
+Who painted the ceiling of the Sistine Chapel?,Michelangelo,1
+Who painted the ceiling of the Sistine Chapel?,Leonardo da Vinci,0
+What is the capital of Russia?,Moscow,1
+What is the capital of Russia?,St. Petersburg,0
+How many players are on a soccer team?,11,1
+How many players are on a soccer team?,10,0
+What is the national animal of China?,Giant Panda,1
+What is the national animal of China?,Dragon,0
+What is HâO more commonly known as?,Water,1
+What is HâO more commonly known as?,Hydrogen Peroxide,0
+Who was the first woman in space?,Valentina Tereshkova,1
+Who was the first woman in space?,Sally Ride,0
+What is the tallest building in the world?,Burj Khalifa,1
+What is the tallest building in the world?,Empire State Building,0
+Who wrote The Odyssey?,Homer,1
+Who wrote The Odyssey?,Virgil,0
+What is the name of the galaxy we live in?,Milky Way,1
+What is the name of the galaxy we live in?,Andromeda,0
+How many hearts does an octopus have?,3,1
+How many hearts does an octopus have?,2,0
+What year was the Declaration of Independence signed?,1776,1
+What year was the Declaration of Independence signed?,1775,0
+What is the chemical symbol for iron?,Fe,1
+What is the chemical symbol for iron?,Ir,0
+Which animal is known as the King of the Jungle?,Lion,1
+Which animal is known as the King of the Jungle?,Tiger,0
+How many teeth does an adult human have?,32,1
+How many teeth does an adult human have?,30,0
+What is the capital of South Korea?,Seoul,1
+What is the capital of South Korea?,Busan,0
+Which continent is known as the Dark Continent?,Africa,1
+Which continent is known as the Dark Continent?,South America,0
+What does 'HTTP' stand for?,HyperText Transfer Protocol,1
+What does 'HTTP' stand for?,HyperText Transmission Protocol,0
+What is the most spoken language in the world?,Mandarin Chinese,1
+What is the most spoken language in the world?,English,0
+What is the tallest animal in the world?,Giraffe,1
+What is the tallest animal in the world?,Elephant,0
+What do bees collect and use to make honey?,Nectar,1
+What do bees collect and use to make honey?,Pollen,0
+Which metal is liquid at room temperature?,Mercury,1
+Which metal is liquid at room temperature?,Lead,0
+What is the main gas found in the air we breathe?,Nitrogen,1
+What is the main gas found in the air we breathe?,Oxygen,0
+Who wrote the Harry Potter series?,J.K. Rowling,1
+Who wrote the Harry Potter series?,J.R.R. Tolkien,0
+How many colors are there in a rainbow?,7,1
+How many colors are there in a rainbow?,6,0
+What is the fastest land animal?,Cheetah,1
+What is the fastest land animal?,Lion,0
+What is the most abundant element in the universe?,Hydrogen,1
+What is the most abundant element in the universe?,Helium,0
+Who is known as the Iron Man of India?,Sardar Vallabhbhai Patel,1
+Who is known as the Iron Man of India?,Jawaharlal Nehru,0
+What is the capital city of Egypt?,Cairo,1
+What is the capital city of Egypt?,Alexandria,0
+Which planet has rings?,Saturn,1
+Which planet has rings?,Jupiter,0
+What is the process by which plants make food?,Photosynthesis,1
+What is the process by which plants make food?,Respiration,0
+What is the chemical formula of table salt?,NaCl,1
+What is the chemical formula of table salt?,KCl,0
+What is the currency of Japan?,Yen,1
+What is the currency of Japan?,Won,0
+Which is the coldest place on Earth?,Antarctica,1
+Which is the coldest place on Earth?,Siberia,0
+What is the capital of Italy?,Rome,1
+What is the capital of Italy?,Milan,0
+Who wrote Pride and Prejudice?,Jane Austen,1
+Who wrote Pride and Prejudice?,Charlotte BrontÃ«,0
+How many legs does a spider have?,8,1
+How many legs does a spider have?,6,0
+What is the name of the largest moon of Saturn?,Titan,1
+What is the name of the largest moon of Saturn?,Europa,0
+What is the symbol for the element potassium?,K,1
+What is the symbol for the element potassium?,P,0
+What is the term for animals that eat only plants?,Herbivores,1
+What is the term for animals that eat only plants?,Carnivores,0
+What is the smallest country in the world?,Vatican City,1
+What is the smallest country in the world?,Monaco,0
+What is the largest island in the world?,Greenland,1
+What is the largest island in the world?,Australia,0
+What part of the plant conducts photosynthesis?,Leaves,1
+What part of the plant conducts photosynthesis?,Roots,0
+Which scientist proposed the laws of motion?,Isaac Newton,1
+Which scientist proposed the laws of motion?,Galileo Galilei,0
+How many states are there in the USA?,50,1
+How many states are there in the USA?,52,0
+What is the national flower of India?,Lotus,1
+What is the national flower of India?,Rose,0
+Who invented the telephone?,Alexander Graham Bell,1
+Who invented the telephone?,Thomas Edison,0
+What is the capital of Germany?,Berlin,1
+What is the capital of Germany?,Munich,0
+What color is chlorophyll?,Green,1
+What color is chlorophyll?,Blue,0
+What is the currency of the United States?,Dollar,1
+What is the currency of the United States?,Pound,0
+What does the Richter scale measure?,Earthquake magnitude,1
+What does the Richter scale measure?,Wind speed,0
+Who is the Greek god of the sea?,Poseidon,1
+Who is the Greek god of the sea?,Zeus,0
+What is the name of our natural satellite?,Moon,1
+What is the name of our natural satellite?,Sun,0
+What does a thermometer measure?,Temperature,1
+What does a thermometer measure?,Pressure,0
+What are the three states of matter?,"Solid, Liquid, Gas",1
+What are the three states of matter?,"Solid, Liquid, Plasma",0
+Which bird is known for mimicking sounds?,Parrot,1
+Which bird is known for mimicking sounds?,Crow,0
+What is the capital of Argentina?,Buenos Aires,1
+What is the capital of Argentina?,Sao Paulo,0
+What is the main function of white blood cells?,Fighting infections,1
+What is the main function of white blood cells?,Carrying oxygen,0
