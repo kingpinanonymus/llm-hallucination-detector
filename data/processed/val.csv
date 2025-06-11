@@ -1,0 +1,22 @@
+,input_text,label
+15,Q: Who is the Greek god of the sea? A: Zeus,0
+9,Q: Who invented the telephone? A: Thomas Edison,0
+115,Q: In what year did India gain independence? A: 1947,1
+78,Q: How many colors are there in a rainbow? A: 7,1
+66,Q: Which continent is known as the Dark Continent? A: Africa,1
+45,Q: What is the national animal of China? A: Giant Panda,1
+132,Q: What organ pumps blood through the body? A: Liver,0
+161,Q: When did World War II end? A: 1944,0
+201,Q: What is the capital of Russia? A: Moscow,1
+181,Q: Which gas do plants absorb from the atmosphere? A: Oxygen,0
+69,"Q: What are the three states of matter? A: Solid, Liquid, Plasma",0
+163,Q: What is the main function of white blood cells? A: Fighting infections,1
+167,Q: What is the capital of Canada? A: Toronto,0
+152,"Q: What is the speed of light? A: 300,000,000 m/s",0
+56,Q: What is the name of our natural satellite? A: Sun,0
+191,Q: How many teeth does an adult human have? A: 32,1
+18,Q: What does DNA stand for? A: Deoxyribose Nucleic Acid,0
+79,Q: Who was the first woman in space? A: Sally Ride,0
+55,Q: What is the capital of South Korea? A: Seoul,1
+146,Q: Who discovered penicillin? A: Louis Pasteur,0
+177,Q: Who developed the theory of relativity? A: Isaac Newton,0
